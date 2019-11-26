@@ -1,15 +1,15 @@
 //
-//  ConversionCalculatorUITests.swift
-//  ConversionCalculatorUITests
+//  CalculatorTests.swift
+//  CalculatorTests
 //
 //  Created by Travis Agne on 11/26/19.
 //  Copyright © 2019 Travis Agne. All rights reserved.
 //
 
 import XCTest
-@testable import ConversionCalculatorUI
+@testable import Calculator
 
-class ConversionCalculatorUITests: XCTestCase {
+class CalculatorTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

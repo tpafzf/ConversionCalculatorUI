@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ConversionCalculatorUI
+//  Calculator
 //
 //  Created by Travis Agne on 11/26/19.
 //  Copyright © 2019 Travis Agne. All rights reserved.
